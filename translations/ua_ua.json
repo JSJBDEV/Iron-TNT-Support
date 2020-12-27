@@ -1,0 +1,25 @@
+{
+  "itemGroup.ate": "Iron TNT",
+
+  "item.ate.flint_and_stone": "Кремінь і камінь",
+  "item.ate.vacuum_on_a_stick": "Вакуум на паличці",
+  "item.ate.remote_det": "Пристрій Видаленого підриву У.В.П",
+
+  "item.ate.throwironex": "Метальний залізний динаміт",
+  "item.ate.throwgoldex": "Метальний золотий динаміт",
+  "item.ate.throwdiamondex": "Метальний алмазний динаміт",
+
+  "block.ate.blockcobbleex": "Булижніковий динаміт",
+  "block.ate.blockironex": "Залізний динаміт",
+  "block.ate.blockgoldex": "Золотий динаміт",
+  "block.ate.blockdiamondex": "Алмазний динаміт",
+  "block.ate.blockbritex": "Британський динаміт",
+  "block.ate.blockradiatingex": "Радіоактивний динаміт",
+  "block.ate.blockgravityex": "Гравітаційний динаміт",
+  "block.ate.blockdetcord": "Дитячий порох",
+  "block.ate.blockironbarrelex": "Залізна вибухає бочка",
+  "block.ate.blockgoldbarrelex": "Золота вибухає бочка",
+  "block.ate.blockdiamondbarrelex": "Алмазна вибухає бочка",
+  "block.ate.blockenderex": "Динаміт з каменю краю",
+  "block.ate.blockfireex": "Запальний динаміт"
+}
